@@ -1,0 +1,24 @@
+# stuff in gitignore
+Notes.txt
+
+# downloaded articles to view
+/articles
+
+# will just upload final model and submission in the end
+/models/*.pkl
+/submissions/*.csv
+sub_*.csv
+
+# dont need to upload sqllite
+data.sqlite
+
+# python junk
+/src/__pycache__/*
+
+# Final model/predictions
+!/models/mod_2023_02_17.pkl
+!/submissions/sub_2023_02_17.csv
+!/models/mod_2023_02_06.pkl
+!/submissions/sub_2023_02_06.csv
+!/models/mod_2023_02_16.pkl
+!/submissions/sub_2023_02_16.csv
