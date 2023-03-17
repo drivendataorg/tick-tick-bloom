@@ -2,6 +2,8 @@
 Getting satellite imagery
 '''
 
+from datetime import datetime
+
 from src import get_data
 from src.sat_fe import get_image_data_ll
 import pandas as pd

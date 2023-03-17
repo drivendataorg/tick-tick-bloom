@@ -17,6 +17,13 @@ Where `requirements.txt` has the necessary libraries for data download/manipulat
 
 I saved the final built versions via `pip list > final_env.txt`, which is also uploaded to the repo.
 
+#### Troubleshooting
+
+If the `LGBMRegressor` model training does not run as expected, try installing the versions of `lightgbm` and its dependencies that are listed in `2nd Place/final_env.txt`
+```
+pip install lightgbm==3.3.3 numpy==1.24.0 scikit-learn==1.2.0 scipy==1.8.1
+```
+
 ## Quickstart
 
 Once downloading this repository, to simply replicate the final models, you can do:

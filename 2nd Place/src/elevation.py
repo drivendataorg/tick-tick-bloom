@@ -3,6 +3,8 @@ Function to download
 lat/lon data
 '''
 
+import time
+
 import pystac_client
 import rioxarray
 import planetary_computer
