@@ -1,0 +1,33 @@
+# I install geopandas first, as it is painful to figure
+# dependencies for it later on down the line
+# conda create --name bloom python=3.9 pip geopandas
+# conda activate bloom
+# pip install -r requirements.txt
+
+# model libraries
+catboost
+xgboost
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+notebook
+ipykernel
+nbconvert
+scipy
+optuna
+
+# geo/data libraries
+pandas
+requests
+planetary-computer
+rioxarray
+pystac-client
+geopy
+odc-stac
+opencv-python
+Pillow
+
+# To see specific returned versions
+# I ran 
+# pip list > final_env.txt

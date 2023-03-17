@@ -1,0 +1,14 @@
+
+
+TRIAL RESULTS
+
+
+Best Average RMSE lgb 0.7603900943592203
+Best Params
+{'n_estimators': 320, 'max_depth': 10, 'ele_vars': 'ele_std', 'xy_set': 'both', 'sl_set': 'lagNone', 'reg_set': 'reg', 'weight': False, 'cat_type': False, 'sat_set': 'sat2500'}
+Best Average RMSE xgb 0.7689817355059014
+Best Params
+{'n_estimators': 50, 'max_depth': 7, 'ele_vars': 'ele_std', 'xy_set': 'both', 'sl_set': 'lagNone', 'reg_set': 'reg', 'weight': False, 'sat_set': 'sat2500'}
+Best Average RMSE cat 0.7620877522802004
+Best Params
+{'n_estimators': 380, 'max_depth': 8, 'ele_vars': 'ele_std', 'xy_set': 'both', 'sl_set': 'lagNone', 'reg_set': 'reg', 'weight': False, 'cat_type': False, 'sat_set': 'sat2500'}
