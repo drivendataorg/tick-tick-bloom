@@ -32,11 +32,6 @@ The final solution does not use the lag values, but have
 included to replicate my prior tests. Get split needs to be
 run AFTER the elevation stats are prepped, but otherwise 
 the order does not matter
-
-any questions? Feel free to email me, 
-
-apwheele@gmail.com
-Andy Wheeler
 '''
 
 
