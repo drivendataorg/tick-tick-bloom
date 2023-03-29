@@ -8,6 +8,7 @@ dependencies:
   - cmocean
   - cfgrib
   - eccodes
+  - gcc
   - xarray
   - jupyter
   - pip
