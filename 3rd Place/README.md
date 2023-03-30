@@ -16,4 +16,4 @@ I've included links to download the processed data and pretrained models so you 
 
 ## License
 
-[MIT](./LICENSE)
+MIT
