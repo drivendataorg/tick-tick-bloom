@@ -19,18 +19,18 @@ This repository contains code from winning competitors in the [Tick Tick Bloom: 
 
 ## Winning Submissions
 
-Place |Team or User | Public Score | Private Score | Summary of Model
+Place | Team or User | Public Score | Private Score | Summary of Model
 --- | --- | ---   | ---   | ---
-1   | sheep | 0.7554 | 0.7608 | <Description from the 1st place's writeup>
-2   | apwheele | 0.7476 | 0.7616 | Three regression models (LGBM, XGBoost, and catboost) are trained on date, location, elevation data, and satellite imagery. K-means segmentation is used to identify the lake area in images.
-3   | BrandenKMurray | 0.7614 | 0.7745 | <Description from the 3rd place's writeup>
+1   | sheep | 0.7554 | 0.7608 | For the Midwest and Northeast, trains a gradient boosted decision tree on temperature and satellite imagery water color. For the West and South, where water bodies tended to be smaller and data lower quality, trains a KNN model on location.
+2   | apwheele | 0.7476 | 0.7616 | Trains three regression models (LGBM, XGBoost, and catboost) on date, location, elevation data, and satellite imagery. Uses K-means segmentation to identify the lake area in images.
+3   | karelds | 0.7698 | 0.7844 | Trains a separate gradient boosted regression tree for each combination of satellite dataset (Landsat 8, Landsat 9, Sentinel) and region, and ensembles to get a final prediction. Features are temperature, humidity, and satellite imagery color statistics.
 
-### Model Write-up Bonus
+### Method Write-up Bonus
 
-Team or User | Public Score | Private Score | Summary of Model
---- | ---   | ---   | ---
-user_name | 0.858 | 0.859 | <Description from the 1st place's writeup>
-user_name | 0.857 | 0.857 | <Description from the 2nd place's writeup>
+Place | Team or User | Public Score | Private Score | Summary of Model
+--- | --- | ---   | ---   | ---
+1 | karelds | 0.7698 | 0.7844 | See above
+2 | sheep | 0.7554 | 0.7608 | See above
 
 Additional solution details can be found in the `reports` folder inside the directory for each submission.
 
