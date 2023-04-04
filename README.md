@@ -27,11 +27,9 @@ Place | Team or User | Public Score | Private Score | Summary of Model
 
 ### Method Write-up Bonus
 
-Place | Team or User | Public Score | Private Score | Summary of Model
+Place | Team or User | Place in Prediction Competition | Link
 --- | --- | ---   | ---   | ---
-1 | [karelds](https://www.drivendata.org/users/karelds/) | 0.7698 | 0.7844 | See above
-2 | [sheep](https://www.drivendata.org/users/sheep/) | 0.7554 | 0.7608 | See above
-
-Additional solution details can be found in the `reports` folder inside the directory for each submission.
+1 | [karelds](https://www.drivendata.org/users/karelds/) | 3rd | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/3rd%20Place/reports/3rd-Place_DrivenData-Competition-Winner-Documentation.pdf)
+2 | [sheep](https://www.drivendata.org/users/sheep/) | 1st | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/1st%20Place/reports/1st-Place_DrivenData-Competition-Winner-Documentation.pdf)
 
 **Benchmark Blog Post: [How to predict harmful algal blooms using LightGBM and satellite imagery](https://drivendata.co/blog/tick-tick-bloom-benchmark)**
