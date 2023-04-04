@@ -9,7 +9,7 @@
 
 Inland water bodies provide a variety of critical services for both human and aquatic life, including drinking water, recreational and economic opportunities, and marine habitats. A significant challenge water quality managers face is the formation of **harmful algal blooms (HABs). One of the major types of HABs is cyanobacteria.** HABs produce toxins that are poisonous to humans and their pets, and threaten marine ecosystems by blocking sunlight and oxygen. Manual water sampling, or “in situ” sampling, is generally used to monitor cyanobacteria in inland water bodies. In situ sampling is accurate, but time intensive and difficult to perform continuously.
 
-**The goal in this challenge was to use satellite imagery to detect and classify the severity of cyanobacteria blooms in small, inland water bodies.** The resulting algorithm will help water quality managers better allocate resources for in situ sampling, and make more informed decisions around public health warnings for critical resources like drinking water reservoirs. Ultimately, more accurate and more timely detection of algal blooms helps keep both the human and marine life that rely on these water bodies safe and healthy.
+**The goal in this challenge was to use satellite imagery to detect and classify the severity of cyanobacteria blooms in small, inland water bodies.** The resulting algorithms will help water quality managers better allocate resources for in situ sampling, and make more informed decisions around public health warnings for critical resources like drinking water reservoirs. Ultimately, more accurate and more timely detection of algal blooms helps keep both the human and marine life that rely on these water bodies safe and healthy.
 
 ## What's in this Repository
 
