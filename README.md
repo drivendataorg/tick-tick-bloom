@@ -28,7 +28,7 @@ Place | Team or User | Public Score | Private Score | Summary of Model
 ### Method Write-up Bonus
 
 Place | Team or User | Place in Prediction Competition | Link
---- | --- | ---   | ---   | ---
+--- | --- | ---   | ---
 1 | [karelds](https://www.drivendata.org/users/karelds/) | 3rd | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/3rd%20Place/reports/3rd-Place_DrivenData-Competition-Winner-Documentation.pdf)
 2 | [sheep](https://www.drivendata.org/users/sheep/) | 1st | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/1st%20Place/reports/1st-Place_DrivenData-Competition-Winner-Documentation.pdf)
 
