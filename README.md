@@ -13,7 +13,7 @@ Inland water bodies provide a variety of critical services for both human and aq
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [Tick Tick Bloom: Harmful Algal Bloom Detection](https://www.drivendata.org/competitions/143/tick-tick-bloom/page/649/) DrivenData challenge.
+This repository contains code from winning competitors in the [Tick Tick Bloom: Harmful Algal Bloom Detection](https://www.drivendata.org/competitions/143/tick-tick-bloom/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
@@ -31,5 +31,7 @@ Place | Team or User | Place in Prediction Competition | Link
 --- | --- | ---   | ---
 1 | [karelds](https://www.drivendata.org/users/karelds/) | 3rd | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/3rd%20Place/reports/3rd-Place_DrivenData-Competition-Winner-Documentation.pdf)
 2 | [sheep](https://www.drivendata.org/users/sheep/) | 1st | [Read the report](https://github.com/drivendataorg/tick-tick-bloom/blob/main/1st%20Place/reports/1st-Place_DrivenData-Competition-Winner-Documentation.pdf)
+
+**Winners Announcement: [Meet the winners of the Tick Tick Bloom challenge](https://drivendata.co/blog/tick-tick-bloom-challenge-winners)**
 
 **Benchmark Blog Post: [How to predict harmful algal blooms using LightGBM and satellite imagery](https://drivendata.co/blog/tick-tick-bloom-benchmark)**
